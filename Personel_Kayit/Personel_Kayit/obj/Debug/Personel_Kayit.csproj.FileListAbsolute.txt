@@ -1,0 +1,15 @@
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.exe.config
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.exe
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.pdb
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csprojResolveAssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.GenerateResource.Cache
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.exe
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.pdb
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.Frmİstatistik.resources
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.FrmAnaForm.resources
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.FrmGrafikler.resources
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.FrmGiris.resources
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.frmRaporlar.resources
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Personel_Kayit\Personel_Kayit\obj\Debug\RdlCompile.cache
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Personel_Kayit\Personel_Kayit\obj\Debug\RdlCompile.compiled
